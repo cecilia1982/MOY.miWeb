@@ -1,12 +1,7 @@
-/* =================================
-------------------------------------
-  Civic - CV Resume
-  Version: 1.0
- ------------------------------------ 
- ====================================*/
+
 
 /*----------------------------------------*/
-/* Template default CSS
+/* CSS
 /*----------------------------------------*/
 html,
 body {
@@ -487,7 +482,7 @@ ol {
 	Resume section
 ----------------------*/
 .resume-section.with-bg {
-	background-image: url(../img/resume-bg.jpg);
+	background-image: url(../img/resumen.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -531,11 +526,15 @@ ol {
 	color: #808181;
 	margin-top: 10px;
 	margin-bottom: 45px;
+	
 }
 
 .resume-list p {
 	margin-bottom: 0;
+	color:#808181;
 }
+
+
 
 /*---------------------
 	Review section
